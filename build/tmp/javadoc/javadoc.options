@@ -1,0 +1,13 @@
+-classpath 'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\build\\classes\\java\\main;C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\build\\resources\\main'
+-d 'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\build\\docs\\javadoc'
+-doctitle 'ej9_1 API'
+-quiet 
+-windowtitle 'ej9_1 API'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\controlador\\ControladorMenu.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\controlador\\ControladorResta.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\controlador\\ControladorSuma.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\controlador\\Main.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\modelo\\ModeloCalculadora.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\vista\\VistaMenu.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\vista\\VistaResta.java'
+'C:\\Datos\\Ies\\Tsds\\Pro1\\Ejercicios\\Unidad9\\Practica\\ej9_1\\src\\main\\java\\vista\\VistaSuma.java'
